@@ -1,0 +1,13 @@
+C:\Users\othon\Documents\CURSOS\C#\DateAndHours\DateAndHours\bin\Debug\netcoreapp3.1\DateAndHours.exe
+C:\Users\othon\Documents\CURSOS\C#\DateAndHours\DateAndHours\bin\Debug\netcoreapp3.1\DateAndHours.deps.json
+C:\Users\othon\Documents\CURSOS\C#\DateAndHours\DateAndHours\bin\Debug\netcoreapp3.1\DateAndHours.runtimeconfig.json
+C:\Users\othon\Documents\CURSOS\C#\DateAndHours\DateAndHours\bin\Debug\netcoreapp3.1\DateAndHours.runtimeconfig.dev.json
+C:\Users\othon\Documents\CURSOS\C#\DateAndHours\DateAndHours\bin\Debug\netcoreapp3.1\DateAndHours.dll
+C:\Users\othon\Documents\CURSOS\C#\DateAndHours\DateAndHours\bin\Debug\netcoreapp3.1\DateAndHours.pdb
+C:\Users\othon\Documents\CURSOS\C#\DateAndHours\DateAndHours\obj\Debug\netcoreapp3.1\DateAndHours.csprojAssemblyReference.cache
+C:\Users\othon\Documents\CURSOS\C#\DateAndHours\DateAndHours\obj\Debug\netcoreapp3.1\DateAndHours.csproj.CoreCompileInputs.cache
+C:\Users\othon\Documents\CURSOS\C#\DateAndHours\DateAndHours\obj\Debug\netcoreapp3.1\DateAndHours.AssemblyInfoInputs.cache
+C:\Users\othon\Documents\CURSOS\C#\DateAndHours\DateAndHours\obj\Debug\netcoreapp3.1\DateAndHours.AssemblyInfo.cs
+C:\Users\othon\Documents\CURSOS\C#\DateAndHours\DateAndHours\obj\Debug\netcoreapp3.1\DateAndHours.dll
+C:\Users\othon\Documents\CURSOS\C#\DateAndHours\DateAndHours\obj\Debug\netcoreapp3.1\DateAndHours.pdb
+C:\Users\othon\Documents\CURSOS\C#\DateAndHours\DateAndHours\obj\Debug\netcoreapp3.1\DateAndHours.genruntimeconfig.cache

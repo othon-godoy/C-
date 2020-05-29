@@ -1,0 +1,13 @@
+C:\Users\othon\Documents\CURSOS\C#\OOP\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.exe
+C:\Users\othon\Documents\CURSOS\C#\OOP\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.deps.json
+C:\Users\othon\Documents\CURSOS\C#\OOP\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.json
+C:\Users\othon\Documents\CURSOS\C#\OOP\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.dev.json
+C:\Users\othon\Documents\CURSOS\C#\OOP\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.dll
+C:\Users\othon\Documents\CURSOS\C#\OOP\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.pdb
+C:\Users\othon\Documents\CURSOS\C#\OOP\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.csprojAssemblyReference.cache
+C:\Users\othon\Documents\CURSOS\C#\OOP\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.csproj.CoreCompileInputs.cache
+C:\Users\othon\Documents\CURSOS\C#\OOP\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.AssemblyInfoInputs.cache
+C:\Users\othon\Documents\CURSOS\C#\OOP\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.AssemblyInfo.cs
+C:\Users\othon\Documents\CURSOS\C#\OOP\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.dll
+C:\Users\othon\Documents\CURSOS\C#\OOP\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.pdb
+C:\Users\othon\Documents\CURSOS\C#\OOP\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.genruntimeconfig.cache

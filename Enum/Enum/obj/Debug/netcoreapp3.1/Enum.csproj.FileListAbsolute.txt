@@ -1,0 +1,13 @@
+C:\Users\othon\Documents\CURSOS\C#\Enum\Enum\bin\Debug\netcoreapp3.1\Enum.exe
+C:\Users\othon\Documents\CURSOS\C#\Enum\Enum\bin\Debug\netcoreapp3.1\Enum.deps.json
+C:\Users\othon\Documents\CURSOS\C#\Enum\Enum\bin\Debug\netcoreapp3.1\Enum.runtimeconfig.json
+C:\Users\othon\Documents\CURSOS\C#\Enum\Enum\bin\Debug\netcoreapp3.1\Enum.runtimeconfig.dev.json
+C:\Users\othon\Documents\CURSOS\C#\Enum\Enum\bin\Debug\netcoreapp3.1\Enum.dll
+C:\Users\othon\Documents\CURSOS\C#\Enum\Enum\bin\Debug\netcoreapp3.1\Enum.pdb
+C:\Users\othon\Documents\CURSOS\C#\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.csprojAssemblyReference.cache
+C:\Users\othon\Documents\CURSOS\C#\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.csproj.CoreCompileInputs.cache
+C:\Users\othon\Documents\CURSOS\C#\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.AssemblyInfoInputs.cache
+C:\Users\othon\Documents\CURSOS\C#\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.AssemblyInfo.cs
+C:\Users\othon\Documents\CURSOS\C#\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.dll
+C:\Users\othon\Documents\CURSOS\C#\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.pdb
+C:\Users\othon\Documents\CURSOS\C#\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.genruntimeconfig.cache
