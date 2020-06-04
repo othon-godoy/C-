@@ -24,6 +24,11 @@ namespace xadrez_console.tabuleiro
             qtdMovimentos++;
         }
 
+        public void decrementarQtdMovimentos()
+        {
+            qtdMovimentos--;
+        }
+
         public bool existeMovimentosPossiveis()
         {
             bool[,] mat = movimentosPossiveis();
@@ -40,6 +45,11 @@ namespace xadrez_console.tabuleiro
             }
 
             return false;
+        }
+
+        public bool podeMoverPara(Posicao pos)
+        {
+            return movimentosPossiveis()[pos.linha, pos.coluna];
         }
 
         public abstract bool[,] movimentosPossiveis();
