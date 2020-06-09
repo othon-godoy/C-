@@ -1,0 +1,13 @@
+C:\Users\moneto\Documents\Cursos\C#\ExtensionMethods\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.exe
+C:\Users\moneto\Documents\Cursos\C#\ExtensionMethods\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.deps.json
+C:\Users\moneto\Documents\Cursos\C#\ExtensionMethods\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.runtimeconfig.json
+C:\Users\moneto\Documents\Cursos\C#\ExtensionMethods\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.runtimeconfig.dev.json
+C:\Users\moneto\Documents\Cursos\C#\ExtensionMethods\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.dll
+C:\Users\moneto\Documents\Cursos\C#\ExtensionMethods\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.pdb
+C:\Users\moneto\Documents\Cursos\C#\ExtensionMethods\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.csprojAssemblyReference.cache
+C:\Users\moneto\Documents\Cursos\C#\ExtensionMethods\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\moneto\Documents\Cursos\C#\ExtensionMethods\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\moneto\Documents\Cursos\C#\ExtensionMethods\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.AssemblyInfo.cs
+C:\Users\moneto\Documents\Cursos\C#\ExtensionMethods\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.dll
+C:\Users\moneto\Documents\Cursos\C#\ExtensionMethods\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.pdb
+C:\Users\moneto\Documents\Cursos\C#\ExtensionMethods\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.genruntimeconfig.cache
