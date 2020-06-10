@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\moneto\\.nuget\\packages\\": {}
+    "C:\\Users\\othon\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\moneto\\Documents\\Cursos\\C#\\Interfaces\\Interfaces\\Interfaces\\Interfaces.csproj",
+      "projectUniqueName": "C:\\Users\\othon\\Documents\\CURSOS\\C#\\Interfaces\\Interfaces\\Interfaces\\Interfaces.csproj",
       "projectName": "Interfaces",
-      "projectPath": "C:\\Users\\moneto\\Documents\\Cursos\\C#\\Interfaces\\Interfaces\\Interfaces\\Interfaces.csproj",
-      "packagesPath": "C:\\Users\\moneto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\moneto\\Documents\\Cursos\\C#\\Interfaces\\Interfaces\\Interfaces\\obj\\",
+      "projectPath": "C:\\Users\\othon\\Documents\\CURSOS\\C#\\Interfaces\\Interfaces\\Interfaces\\Interfaces.csproj",
+      "packagesPath": "C:\\Users\\othon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\othon\\Documents\\CURSOS\\C#\\Interfaces\\Interfaces\\Interfaces\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\moneto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\othon\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

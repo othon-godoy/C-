@@ -11,3 +11,16 @@ C:\Users\moneto\Documents\Cursos\C#\Interfaces\Interfaces\Interfaces\obj\Debug\n
 C:\Users\moneto\Documents\Cursos\C#\Interfaces\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
 C:\Users\moneto\Documents\Cursos\C#\Interfaces\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
 C:\Users\moneto\Documents\Cursos\C#\Interfaces\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache
+C:\Users\othon\Documents\CURSOS\C#\Interfaces\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.exe
+C:\Users\othon\Documents\CURSOS\C#\Interfaces\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+C:\Users\othon\Documents\CURSOS\C#\Interfaces\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+C:\Users\othon\Documents\CURSOS\C#\Interfaces\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+C:\Users\othon\Documents\CURSOS\C#\Interfaces\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\othon\Documents\CURSOS\C#\Interfaces\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\othon\Documents\CURSOS\C#\Interfaces\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csprojAssemblyReference.cache
+C:\Users\othon\Documents\CURSOS\C#\Interfaces\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\othon\Documents\CURSOS\C#\Interfaces\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+C:\Users\othon\Documents\CURSOS\C#\Interfaces\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+C:\Users\othon\Documents\CURSOS\C#\Interfaces\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\othon\Documents\CURSOS\C#\Interfaces\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\othon\Documents\CURSOS\C#\Interfaces\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache

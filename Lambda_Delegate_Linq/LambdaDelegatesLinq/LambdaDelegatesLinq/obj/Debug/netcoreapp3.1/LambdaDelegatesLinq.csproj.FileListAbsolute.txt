@@ -1,0 +1,13 @@
+C:\Users\othon\Documents\CURSOS\C#\Lambda_Delegate_Linq\LambdaDelegatesLinq\LambdaDelegatesLinq\bin\Debug\netcoreapp3.1\LambdaDelegatesLinq.exe
+C:\Users\othon\Documents\CURSOS\C#\Lambda_Delegate_Linq\LambdaDelegatesLinq\LambdaDelegatesLinq\bin\Debug\netcoreapp3.1\LambdaDelegatesLinq.deps.json
+C:\Users\othon\Documents\CURSOS\C#\Lambda_Delegate_Linq\LambdaDelegatesLinq\LambdaDelegatesLinq\bin\Debug\netcoreapp3.1\LambdaDelegatesLinq.runtimeconfig.json
+C:\Users\othon\Documents\CURSOS\C#\Lambda_Delegate_Linq\LambdaDelegatesLinq\LambdaDelegatesLinq\bin\Debug\netcoreapp3.1\LambdaDelegatesLinq.runtimeconfig.dev.json
+C:\Users\othon\Documents\CURSOS\C#\Lambda_Delegate_Linq\LambdaDelegatesLinq\LambdaDelegatesLinq\bin\Debug\netcoreapp3.1\LambdaDelegatesLinq.dll
+C:\Users\othon\Documents\CURSOS\C#\Lambda_Delegate_Linq\LambdaDelegatesLinq\LambdaDelegatesLinq\bin\Debug\netcoreapp3.1\LambdaDelegatesLinq.pdb
+C:\Users\othon\Documents\CURSOS\C#\Lambda_Delegate_Linq\LambdaDelegatesLinq\LambdaDelegatesLinq\obj\Debug\netcoreapp3.1\LambdaDelegatesLinq.csprojAssemblyReference.cache
+C:\Users\othon\Documents\CURSOS\C#\Lambda_Delegate_Linq\LambdaDelegatesLinq\LambdaDelegatesLinq\obj\Debug\netcoreapp3.1\LambdaDelegatesLinq.csproj.CoreCompileInputs.cache
+C:\Users\othon\Documents\CURSOS\C#\Lambda_Delegate_Linq\LambdaDelegatesLinq\LambdaDelegatesLinq\obj\Debug\netcoreapp3.1\LambdaDelegatesLinq.AssemblyInfoInputs.cache
+C:\Users\othon\Documents\CURSOS\C#\Lambda_Delegate_Linq\LambdaDelegatesLinq\LambdaDelegatesLinq\obj\Debug\netcoreapp3.1\LambdaDelegatesLinq.AssemblyInfo.cs
+C:\Users\othon\Documents\CURSOS\C#\Lambda_Delegate_Linq\LambdaDelegatesLinq\LambdaDelegatesLinq\obj\Debug\netcoreapp3.1\LambdaDelegatesLinq.dll
+C:\Users\othon\Documents\CURSOS\C#\Lambda_Delegate_Linq\LambdaDelegatesLinq\LambdaDelegatesLinq\obj\Debug\netcoreapp3.1\LambdaDelegatesLinq.pdb
+C:\Users\othon\Documents\CURSOS\C#\Lambda_Delegate_Linq\LambdaDelegatesLinq\LambdaDelegatesLinq\obj\Debug\netcoreapp3.1\LambdaDelegatesLinq.genruntimeconfig.cache
