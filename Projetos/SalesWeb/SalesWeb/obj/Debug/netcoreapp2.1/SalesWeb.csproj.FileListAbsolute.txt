@@ -44,3 +44,6 @@ C:\Users\othon\Documents\CURSOS\C#\Projetos\SalesWeb\SalesWeb\obj\Debug\netcorea
 C:\Users\othon\Documents\CURSOS\C#\Projetos\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
 C:\Users\othon\Documents\CURSOS\C#\Projetos\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.cshtml.g.cs
 C:\Users\othon\Documents\CURSOS\C#\Projetos\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Edit.cshtml.g.cs
+C:\Users\othon\Documents\CURSOS\C#\Projetos\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\Index.cshtml.g.cs
+C:\Users\othon\Documents\CURSOS\C#\Projetos\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\GroupingSearch.cshtml.g.cs
+C:\Users\othon\Documents\CURSOS\C#\Projetos\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\SimpleSearch.cshtml.g.cs
